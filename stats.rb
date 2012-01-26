@@ -8,3 +8,4 @@ puts "Number of words: " + words.size.to_s
 # very useful help on Git and GitHub:
 # https://github.com/Manko10/InsertCoin-Docs/wiki/SmartGit
 # http://www.netmagazine.com/tutorials/master-version-control-git
+# http://help.github.com/fork-a-repo/
